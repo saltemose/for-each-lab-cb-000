@@ -4,8 +4,8 @@ function iterativeLog(array){
 })
 }
 
-function interate(callback){
-  var newArray = ["String"];
+function iterate(callback){
+  var newArray = ["String"]
   newArray.forEach(callback);
   return newArray;
 
